@@ -456,6 +456,6 @@ background: linear-gradient(135deg, #42a5f5 0%, #478ed1 100%);
 
 **如果您覺得這個專案有幫助，請給它一個 ⭐ star！**
 
-由 [您的名字] 用 ❤️ 製作
+由 YQ Wu 用 ❤️ 製作
 
 </div>
