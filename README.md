@@ -432,7 +432,6 @@ background: linear-gradient(135deg, #42a5f5 0%, #478ed1 100%);
 
 ### 👨‍💻 作者
 
-**您的名字**
 - GitHub: @andrew123555(https://github.com/andrew123555)
 - Email: bb81245g000@gmail.com
 
@@ -441,7 +440,6 @@ background: linear-gradient(135deg, #42a5f5 0%, #478ed1 100%);
 - Yahoo 字典提供免費字典服務
 - Google 翻譯提供翻譯服務
 - Chrome Extension API 文件
-- 所有貢獻者和使用者
 
 ### 📮 聯絡方式
 
