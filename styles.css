@@ -1,0 +1,29 @@
+/* 全網字典助手 - 樣式 */
+
+.dict-lookup-button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 10px 18px;
+  border-radius: 20px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+  transition: all 0.3s ease;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft JhengHei", sans-serif;
+  white-space: nowrap;
+  user-select: none;
+  border: none;
+  outline: none;
+}
+
+.dict-lookup-button:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
+  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+.dict-lookup-button:active {
+  transform: translateY(0) scale(0.98);
+  box-shadow: 0 2px 10px rgba(102, 126, 234, 0.4);
+}

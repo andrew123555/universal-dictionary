@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "全網字典助手 + 翻譯",
+  "version": "2.0",
+  "description": "在任何網頁選取英文單字查字典，或選取句子進行翻譯（Google 翻譯）",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
